@@ -19,5 +19,4 @@ echo "Contents of the downloaded file:"
 cat sample.txt
 echo "-------------------"
 
-
 echo ">>> Webhook testing script executed successfully!"
