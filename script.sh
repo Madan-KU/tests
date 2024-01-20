@@ -11,7 +11,7 @@ cd "$work_dir"
 echo "Working directory: $work_dir"
 echo "-------------------"
 
-file_url="https://github.com/Madan-KU/tests/sample.txt"
+file_url="https://github.com/Madan-KU/tests/blob/main/sample.txt"
 echo "Downloading file from $file_url..."
 wget "$file_url" -O sample.txt
 
